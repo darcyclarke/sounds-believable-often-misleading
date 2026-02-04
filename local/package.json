@@ -1,0 +1,7 @@
+{
+  "name": "local",
+  "version": "1.2.3",
+  "dependencies": {
+    "qs": "*"
+  }
+}

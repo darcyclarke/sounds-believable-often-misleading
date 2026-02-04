@@ -1,0 +1,19 @@
+{
+  "name": "sounds-believable-often-misleading",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "*",
+    "next": "canary",
+    "chalk": "npm:colors",
+    "yargs": ">1",
+    "vue": "github:ljharb/set-proto",
+    "lodash": "file:./local",
+    "express": "https://registry.npmjs.org/fastify/-/fastify-5.7.4.tgz"
+  },
+  "overrides": {
+    "react": "18.x",
+    "yargs": {
+      "yargs-parser": "npm:minargs"
+    }
+  }
+}
